@@ -16,7 +16,7 @@ doks:
     footer:
         content:
             logo:
-                text: github.com/k8stuff
+                text:
                 image:
             copyright: Copyright &copy; 2022<br>All rights reserved.
         social_list:
