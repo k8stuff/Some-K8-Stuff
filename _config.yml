@@ -18,16 +18,16 @@ doks:
             logo:
                 text: My own little K8 Knowledgebase
                 image:
-            copyright: Copyright &copy; 2022. - My own little K8 Knowledgebase <br>All rights reserved.
+            copyright: Copyright &copy; 2022<br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
+        #    - network_name: facebook
+        #      profile_url: '#'
             - network_name: twitter
               profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+         #   - network_name: instagram
+         #     profile_url: '#'
+         #   - network_name: youtube
+         #     profile_url: '#'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
