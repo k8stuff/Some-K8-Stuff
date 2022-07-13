@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Just some K8s stuff ...
-description: I forget things, so I just use this as my notepad.
+description: I forget things, so I just use this as my little (public) notepad.
 buttons:
     - content: Button
       url: '#'
