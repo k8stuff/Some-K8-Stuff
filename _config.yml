@@ -16,7 +16,7 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: My own little K8 Knowledgebase
                 image:
             copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
         social_list:
