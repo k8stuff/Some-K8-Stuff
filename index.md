@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: My own little (Public) K8 Knowledgebase
+title: Just some K8s stuff ...
 description: I forget things, so I just use this as my notepad.
 buttons:
     - content: Button
@@ -22,6 +22,13 @@ author:
     external_url: true
     description: Author description
 
+# Grid navigation
+grid_navigation:
+    - title: Grid navigation
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+      
 # Grid navigation
 grid_navigation:
     - title: Grid navigation
