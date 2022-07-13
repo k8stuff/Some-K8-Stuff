@@ -23,7 +23,7 @@ doks:
         #    - network_name: facebook
         #      profile_url: '#'
             - network_name: twitter
-              profile_url: '#'
+              profile_url: 'https://twitter.com/michael_rudloff'
          #   - network_name: instagram
          #     profile_url: '#'
          #   - network_name: youtube
