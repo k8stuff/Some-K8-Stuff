@@ -6,14 +6,14 @@ keywords:
 # Hero section
 title: Just some K8s stuff ...
 description: I forget things, so I just use this as my little (public) notepad.
-buttons:
-    - content: Button
-      url: '#'
-      external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
+#buttons:
+#    - content: Button
+#      url: '#'
+#      external_url: false
+#    - icon: github
+#      content: Button with icon
+#      url: '#'
+#      external_url: true
 
 # Author box
 author:
