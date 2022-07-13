@@ -24,15 +24,15 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: First Article
+      excerpt: Random description
       cta: Read more
       url: '#'
       
 # Grid navigation
 grid_navigation2:
-    - title: Grid navigation
-      excerpt: Section description
+    - title: Second Article
+      excerpt: Another random description
       cta: Read more
       url: '#'
 ---
