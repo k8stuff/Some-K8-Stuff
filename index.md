@@ -20,7 +20,7 @@ author:
     title: About Author
     title_url: '#'
     external_url: true
-    description: Author description
+   # description: Author description
 
 # Grid navigation
 grid_navigation:
