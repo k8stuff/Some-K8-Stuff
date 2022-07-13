@@ -29,8 +29,6 @@ grid_navigation:
       cta: Read more
       url: '#'
       
-# Grid navigation
-grid_navigation2:
     - title: Second Article
       excerpt: Another random description
       cta: Read more
