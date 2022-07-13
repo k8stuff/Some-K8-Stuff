@@ -20,7 +20,7 @@ author:
     title: About Author
     title_url: '#'
     external_url: true
-   # description: Author description
+    description: Name's Mike and I am just playing with K8s a bit and like many, use Github to host my website (https://github.com/k8stuff)
 
 # Grid navigation
 grid_navigation:
