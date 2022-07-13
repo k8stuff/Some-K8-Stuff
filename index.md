@@ -38,4 +38,19 @@ grid_navigation:
       excerpt: YET another random description
       cta: Read more
       url: '#'
+      
+    - title: 4th Article
+      excerpt: Random description
+      cta: Read more
+      url: '#'
+      
+    - title: 5th Article
+      excerpt: Another random description
+      cta: Read more
+      url: '#'
+     
+    - title: 6th Article
+      excerpt: YET another random description
+      cta: Read more
+      url: '#'
 ---
