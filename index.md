@@ -30,7 +30,7 @@ grid_navigation:
       url: '#'
       
 # Grid navigation
-grid_navigation:
+grid_navigation2:
     - title: Grid navigation
       excerpt: Section description
       cta: Read more
