@@ -7,9 +7,9 @@ keywords:
 title: Just some K8s stuff ...
 description: I forget things, so I just use this as my little (public) notepad.
 #buttons:
-#    - content: Button
-#      url: '#'
-#      external_url: false
+    - content: Github Repo
+      url: 'https://github.com/k8stuff/Some-K8-Stuff
+     external_url: true
 #    - icon: github
 #      content: Button with icon
 #      url: '#'
