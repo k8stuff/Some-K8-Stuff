@@ -4,8 +4,8 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: My own little (Public) K8 Knowledgebase
+description: I forget things, so I just use this as my notepad.
 buttons:
     - content: Button
       url: '#'
